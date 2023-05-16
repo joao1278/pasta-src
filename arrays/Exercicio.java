@@ -32,7 +32,7 @@ public class Exercicio {
 	
 	
 	System.out.println(total / NotasAlunoA.length);//desta forma vai dividir pela
-	//quantidade de numeros que esta no array
+	//quantidade de numeros que esta no array+
 	System.out.println(NotasAlunoA[1]);
 	System.out.println(NotasAlunoA[2]);
 	
